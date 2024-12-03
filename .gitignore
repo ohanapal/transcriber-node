@@ -3,4 +3,5 @@ output/
 uploads/
 images/
 demovenv/
+.env
 
